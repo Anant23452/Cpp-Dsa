@@ -3,6 +3,8 @@ using namespace std;
 int main(){
 int arr[] ={4,5,6,7,4,};
 int* ptr =arr;
+// ptr++;ptr is pointed to  2nd element 
+//ptr--;ptr is pointed to 1st element of array;
 cout<<ptr<<endl;
 // int ptr = &arr[0];// agar pahle element ka adress mtlb pure array ko de diye 
 // cout<<&arr[0]<<endl; 

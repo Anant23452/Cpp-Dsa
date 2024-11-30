@@ -7,7 +7,7 @@ void display(int a[],int size) //int *a bhi lekhe ge to sahe hai a[]ki jagah pe
         cout<<a[i]<<" ";
     };
     cout<<endl;
-    return;
+    return; 
     
 }
 void change(int b[],int size){
