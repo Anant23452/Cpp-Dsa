@@ -1,1 +1,0 @@
-given a number of size n+1 consist of integer from 1 to n, one of the element is duplicate in the array. Find that duplicate number.
