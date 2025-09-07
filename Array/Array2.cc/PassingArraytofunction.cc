@@ -22,4 +22,4 @@ int main(){
 }
 // arr ke first element ka hi adress pure  arrary ka adress hota hai 
 // int * ptr = arr; correct way to represent adress 
-int * ptr =&arr;
+// int * ptr =&arr;
